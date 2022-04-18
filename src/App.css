@@ -1,0 +1,1087 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.main-screen {
+  background-color: var(--white);
+  height: 2805px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.main-screen .pexels-vecislavas-popa-1571460-1 {
+  background-color: transparent;
+  height: 700px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.main-screen .rectangle-2 {
+  background-color: #15141440;
+  height: 700px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.card {
+  width: 400px;
+  height: auto;
+  padding: 2rem;
+  border-radius: 1rem;
+  top: 1000px;
+  left: 500PX;
+}
+
+.card-title {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-size: 1.2rem;
+}
+
+p,
+a {
+  font-size: 1rem;
+}
+
+a {
+  color: #4d4ae8;
+  text-decoration: none;
+}
+
+.main-screen .your-logo {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-dancing_script);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 186px;
+}
+
+.main-screen .rethink-your-living-renting {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 271px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 0.00px;
+  line-height: 110.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  width: 100%;
+}
+
+.main-screen .about-us {
+  background-color: transparent;
+  height: 39px;
+  right: 400px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 104px;
+}
+
+.main-screen .explore {
+  background-color: transparent;
+  height: 39px;
+  right: 300px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 104px;
+}
+
+.main-screen .cities {
+  background-color: transparent;
+  height: 39px;
+  right: 200px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 104px;
+}
+
+.main-screen .image-1 {
+  background-color: transparent;
+  height: 14px;
+  right: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+    top: 37px;
+  width: 20px;
+}
+
+.main-screen .image-2 {
+  background-color: transparent;
+  height: 24px;
+  left: 558px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 658px;
+  width: 35px;
+}
+
+.main-screen .make-your-stay-painless-with-us {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  letter-spacing: 0.00px;
+  line-height: 33.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 367px;
+  width: 100%;
+}
+
+.main-screen .rectangle-3 {
+  background-color: transparent;
+  height: 100px;
+  left: 101px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 527px;
+  width: 940px;
+}
+
+.main-screen .rectangle-4 {
+  background-color: transparent;
+  height: 70px;
+  left: 791px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 542px;
+  width: 235px;
+}
+
+.main-screen .rectangle-5 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 70px;
+  left: 119px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 542px;
+  width: 210px;
+}
+
+.main-screen .rectangle-6 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 70px;
+  left: 341px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 542px;
+  width: 210px;
+}
+
+.main-screen .rectangle-7 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 70px;
+  left: 564px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 542px;
+  width: 210px;
+}
+
+.main-screen .rectangle-8 {
+  background-color: transparent;
+  border: 2px solid var(--white);
+  border-radius: 10px;
+  height: 50px;
+  right: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 131px;
+}
+
+.main-screen .call {
+  background-color: transparent;
+  height: 39px;
+  right: 50px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: 104px;
+}
+
+.main-screen .search-text-icon {
+  background-color: transparent;
+  height: 37px;
+  left: 843px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 558px;
+  width: 131px;
+}
+
+.main-screen .search-WxUbn8 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  height: 37px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 28.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 101px;
+}
+
+.main-screen .icon-search-WxUbn8 {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 30px;
+}
+
+.main-screen .city {
+  background-color: transparent;
+  height: 19px;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: 17.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 548px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.main-screen .select-your-city {
+  background-color: transparent;
+  height: 33px;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: 24.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 571px;
+  width: 185px;
+}
+
+.main-screen .dates {
+  background-color: transparent;
+  height: 19px;
+  left: 350px;
+  letter-spacing: 0.00px;
+  line-height: 17.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 548px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.main-screen .select-your-dates {
+  background-color: transparent;
+  height: 33px;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: 24.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 571px;
+  width: 187px;
+}
+
+.main-screen .guests {
+  background-color: transparent;
+  height: 19px;
+  left: 573px;
+  letter-spacing: 0.00px;
+  line-height: 17.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 548px;
+  white-space: nowrap;
+  width: 67px;
+}
+
+.main-screen .add-guests {
+  background-color: transparent;
+  height: 33px;
+  left: 578px;
+  letter-spacing: 0.00px;
+  line-height: 24.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 571px;
+  width: 186px;
+}
+
+.main-screen .vector {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 649px;
+  width: auto;
+}
+
+.main-screen .explore-4wuTJo {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: 70px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 70.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 782px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .from-one-guest-rooms {
+  background-color: transparent;
+  height: 40px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 877px;
+  width: 300px;
+}
+
+.main-screen .pexels-dmitry-zvolskiy-2082087-1 {
+  background-color: transparent;
+  height: 300px;
+  left: 50px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 973px;
+  width: 500px;
+}
+
+.main-screen .pexels-naim-benjelloun-2029670-1 {
+  background-color: transparent;
+  height: 300px;
+  left: 580px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 973px;
+  width: 500px;
+}
+
+.main-screen .rectangle-14 {
+  background-color: transparent;
+  height: 100px;
+  left: 76px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1223px;
+  width: 424px;
+}
+
+.main-screen .room-with-one-king-size-bed {
+  background-color: transparent;
+  height: 20px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1245px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.main-screen .rectangle-4-4wuTJo {
+  background-color: transparent;
+  height: 30px;
+  left: 103px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1278px;
+  width: 80px;
+}
+
+.main-screen .x35 {
+  background-color: transparent;
+  height: 20px;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1283px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .rectangle-15 {
+  background-color: transparent;
+  height: 30px;
+  left: 219px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1278px;
+  width: 80px;
+}
+
+.main-screen .x28 {
+  background-color: transparent;
+  height: 20px;
+  left: 239px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1283px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .rectangle-9 {
+  background-color: transparent;
+  height: 50px;
+  left: 379px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1258px;
+  width: 100px;
+}
+
+.main-screen .book {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  left: 405px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1273px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .rectangle-16 {
+  background-color: transparent;
+  height: 100px;
+  left: 610px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1223px;
+  width: 424px;
+}
+
+.main-screen .penthouse-for-8-person {
+  background-color: transparent;
+  height: 20px;
+  left: 637px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1245px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.main-screen .rectangle-17 {
+  background-color: transparent;
+  height: 30px;
+  left: 637px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1278px;
+  width: 80px;
+}
+
+.main-screen .x2039 {
+  background-color: transparent;
+  height: 20px;
+  left: 651px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1283px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .rectangle-18 {
+  background-color: transparent;
+  height: 30px;
+  left: 753px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1278px;
+  width: 80px;
+}
+
+.main-screen .x438 {
+  background-color: transparent;
+  height: 20px;
+  left: 767px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1283px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .rectangle-19 {
+  background-color: transparent;
+  height: 50px;
+  left: 909px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1258px;
+  width: 100px;
+}
+
+.main-screen .book-4wuTJo {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  left: 935px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1273px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .pexels-houzlook-com-3356416-2 {
+  background-color: transparent;
+  height: 503px;
+  left: 90px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1917px;
+  width: 400px;
+}
+
+.main-screen .rectangle-14-4wuTJo {
+  background-color: transparent;
+  height: 100px;
+  left: 115px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2370px;
+  width: 350px;
+}
+
+.main-screen .chapter-iii {
+  background-color: transparent;
+  height: 26px;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .lorem-ipsum-dolor-si {
+  background-color: transparent;
+  height: 30px;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 15.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2424px;
+  width: 300px;
+}
+
+.main-screen .pexels-oleg-zaicev-4834891-1 {
+  background-color: transparent;
+  height: 500px;
+  left: 547px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1983px;
+  width: 500px;
+}
+
+.main-screen .rectangle-15-4wuTJo {
+  background-color: transparent;
+  height: 100px;
+  left: 597px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2433px;
+  width: 350px;
+}
+
+.main-screen .chapter-iv {
+  background-color: transparent;
+  height: 26px;
+  left: 627px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2448px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .lorem-ipsum-dolor-si-4wuTJo {
+  background-color: transparent;
+  height: 30px;
+  left: 627px;
+  letter-spacing: 0.00px;
+  line-height: 15.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2487px;
+  width: 300px;
+}
+
+.main-screen .x2021-company-name-all-rights-reserved {
+  background-color: transparent;
+  height: 43px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 18.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2681px;
+  width: 159px;
+}
+
+.main-screen .about-us-4wuTJo {
+  background-color: transparent;
+  height: 39px;
+  right: 300px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2651px;
+  width: 104px;
+}
+
+.main-screen .explore-MICO9c {
+  background-color: transparent;
+  height: 39px;
+  right : 400px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2651px;
+  width: 104px;
+}
+
+.main-screen .cities-4wuTJo {
+  background-color: transparent;
+  height: 39px;
+  right: 200px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2651px;
+  width: 104px;
+}
+
+.main-screen .rectangle-8-4wuTJo {
+  background-color: transparent;
+  border: 2px solid var(--black);
+  border-radius: 10px;
+  height: 50px;
+  right: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2635px;
+  width: 131px;
+}
+
+.main-screen .call-4wuTJo {
+  background-color: transparent;
+  height: 39px;
+  right : 50px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2651px;
+  width: 104px;
+}
+
+.main-screen .your-logo-4wuTJo {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-dancing_script);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2594px;
+  width: 186px;
+}
+
+.main-screen .about-us-MICO9c {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  height: 70px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 70.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1379px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .allow-us-to-tell-you-a-short-story {
+  background-color: transparent;
+  height: 20px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 19.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1470px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.main-screen .pexels-max-vakhtbovych-5998051-1 {
+  background-color: transparent;
+  height: 267px;
+  left: 69px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1538px;
+  width: 400px;
+}
+
+.main-screen .rectangle-12 {
+  background-color: transparent;
+  height: 100px;
+  left: 94px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1755px;
+  width: 350px;
+}
+
+.main-screen .chapter-i {
+  background-color: transparent;
+  height: 26px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1770px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .lorem-ipsum-dolor-si-MICO9c {
+  background-color: transparent;
+  height: 30px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 15.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1809px;
+  width: 300px;
+}
+
+.main-screen .pexels-max-vakhtbovych-6492403-1 {
+  background-color: transparent;
+  height: 334px;
+  left: 526px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1538px;
+  width: 500px;
+}
+
+.main-screen .rectangle-13 {
+  background-color: transparent;
+  height: 100px;
+  left: 558px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1822px;
+  width: 350px;
+}
+
+.main-screen .chapter-ii {
+  background-color: transparent;
+  height: 26px;
+  left: 588px;
+  letter-spacing: 0.00px;
+  line-height: 26.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1837px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.main-screen .lorem-ipsum-dolor-si-0beCRG {
+  background-color: transparent;
+  height: 30px;
+  left: 583px;
+  letter-spacing: 0.00px;
+  line-height: 15.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1872px;
+  width: 300px;
+}
+
+:root {
+  --black: #000000;
+  --dove-gray: #6d6c6c;
+  --white: #ffffff;
+
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 30px;
+  --font-size-xxxxxl: 100px;
+
+  --font-family-dancing_script: "Dancing Script", Helvetica;
+  --font-family-exo_2: "Exo 2", Helvetica;
+  --font-family-ubuntu: "Ubuntu", Helvetica;
+}
+
+.ubuntu-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-light-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.exo2-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.exo2-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-exo_2);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.exo2-normal-dove-gray-16px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-exo_2);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

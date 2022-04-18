@@ -1,0 +1,277 @@
+.mobile-first-screen {
+    background-color: var(--white);
+    height: 736px;
+    mix-blend-mode: normal;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 414px;
+}
+
+.mobile-first-screen .pexels-vecislavas-popa-1571460-2-Idyan4 {
+    background-color: transparent;
+    height: 736px;
+    left: 345px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 414px;
+}
+
+.mobile-first-screen .rectangle-9-Idyan4 {
+    background-color: #15141440;
+    border-radius: 30px;
+    height: 736px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 414px;
+}
+
+.mobile-first-screen .your-logo-Idyan4 {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-dancing_script);
+    font-size: var(--font-size-xxxxxl);
+    font-style: normal;
+    font-weight: 700;
+    height: auto;
+    left: 33px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 25px;
+    width: 186px;
+}
+
+.mobile-first-screen .bars-solid-1-1-Idyan4 {
+    background-color: transparent;
+    height: 46px;
+    left: 339px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 28px;
+    width: 40px;
+}
+
+.mobile-first-screen .rethink-your-living-renting-Idyan4 {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-exo_2);
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    height: 114px;
+    left: 11px;
+    letter-spacing: 0.00px;
+    line-height: 57.2px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    top: 156px;
+    width: 391px;
+}
+
+.mobile-first-screen .make-your-stay-painless-with-us-Idyan4 {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-ubuntu);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 500;
+    height: 44px;
+    left: 40px;
+    letter-spacing: 0.00px;
+    line-height: 22.0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    top: 289px;
+    width: 333px;
+}
+
+.mobile-first-screen .rectangle-9-DDVsAj {
+    background-color: transparent;
+    height: 308px;
+    left: 17px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 370px;
+    width: 380px;
+}
+
+.mobile-first-screen .rectangle-4-Idyan4 {
+    background-color: transparent;
+    height: 60px;
+    left: 40px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 594px;
+    width: 333px;
+}
+
+.mobile-first-screen .rectangle-5-Idyan4 {
+    background-color: var(--white);
+    border-radius: 16px;
+    height: 60px;
+    left: 40px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 393px;
+    width: 333px;
+}
+
+.mobile-first-screen .city-Idyan4 {
+    background-color: transparent;
+    height: 19px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 16.5px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 398px;
+    white-space: nowrap;
+    width: 44px;
+}
+
+.mobile-first-screen .select-your-city-Idyan4 {
+    background-color: transparent;
+    height: 33px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 24.2px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 417px;
+    width: 185px;
+}
+
+.mobile-first-screen .rectangle-11-Idyan4 {
+    background-color: var(--white);
+    border-radius: 16px;
+    height: 60px;
+    left: 40px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 527px;
+    width: 333px;
+}
+
+.mobile-first-screen .guests-Idyan4 {
+    background-color: transparent;
+    height: 19px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 16.5px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 532px;
+    white-space: nowrap;
+    width: 60px;
+}
+
+.mobile-first-screen .add-guests-Idyan4 {
+    background-color: transparent;
+    height: 33px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 24.2px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 551px;
+    width: 185px;
+}
+
+.mobile-first-screen .rectangle-10-Idyan4 {
+    background-color: var(--white);
+    border-radius: 16px;
+    height: 60px;
+    left: 40px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 460px;
+    width: 333px;
+}
+
+.mobile-first-screen .dates-Idyan4 {
+    background-color: transparent;
+    height: 19px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 16.5px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 465px;
+    white-space: nowrap;
+    width: 44px;
+}
+
+.mobile-first-screen .select-your-dates-Idyan4 {
+    background-color: transparent;
+    height: 33px;
+    left: 55px;
+    letter-spacing: 0.00px;
+    line-height: 24.2px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 484px;
+    width: 185px;
+}
+
+.mobile-first-screen .image-3-Idyan4 {
+    background-color: transparent;
+    height: 24px;
+    left: 189px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 697px;
+    width: 35px;
+}
+
+.mobile-first-screen .search-text-icon-Idyan4 {
+    background-color: transparent;
+    height: 37px;
+    left: 141px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 605px;
+    width: 131px;
+}
+
+.mobile-first-screen .search-pEyC3p {
+    background-color: transparent;
+    color: var(--white);
+    font-family: var(--font-family-ubuntu);
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    height: 37px;
+    left: 30px;
+    letter-spacing: 0.00px;
+    line-height: 28.6px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    width: 101px;
+}
+
+.mobile-first-screen .search-solid-1-pEyC3p {
+    background-color: transparent;
+    height: 30px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 4px;
+    width: 30px;
+}
